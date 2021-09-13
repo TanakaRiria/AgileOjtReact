@@ -24,7 +24,7 @@ export default function HomeApp() {
   // コンポーネントの描画
   return (
     <div>
-      <h1>React OJT Angularベースコード</h1>
+      <h1>Agile OJT Reactベースコード</h1>
       <p>
         Hello { now }
       </p>

@@ -1,4 +1,4 @@
-# React OJT Angular ベースコード
+# Agile OJT React ベースコード
 
 ## 目次
 - 概要
