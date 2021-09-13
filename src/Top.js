@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from 'react'
+import React, {useEffect} from 'react'
 
 /*
 Topコンポーネント
@@ -8,7 +8,7 @@ export default function TopApp(props) {
   useEffect(() => {
     // homeに遷移
     props.history.push("/home");
-  },[]); 
+  },[props.history]); 
 
   // コンポーネントを描画
   return (
